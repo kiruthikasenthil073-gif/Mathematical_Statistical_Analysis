@@ -1,4 +1,4 @@
-# Mathematical_Statistical_Analysis
+# Mathematics Statistics Analysis for Data Science
 
 **Project Overview**
 
